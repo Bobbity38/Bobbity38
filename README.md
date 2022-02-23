@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bobbity38
+- 👋 Hi, I’m Claire.
 - 👀 I’m interested in everythin blockchain. Python, SQL.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
